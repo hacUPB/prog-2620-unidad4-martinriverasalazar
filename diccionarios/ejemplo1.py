@@ -25,5 +25,3 @@ print (piloto)
 # Eliminar un dato 
 del vuelo["vuelo"]
 print (vuelo)
-
-print (vuelo[primer_oficial])
